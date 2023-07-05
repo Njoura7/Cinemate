@@ -1,0 +1,3 @@
+[submodule "Cinemate-backend"]
+	path = Cinemate-backend
+	url = https://github.com/Njoura7/Cinemate-backend
