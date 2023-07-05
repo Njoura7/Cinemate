@@ -1,3 +1,6 @@
 [submodule "Cinemate-backend"]
 	path = Cinemate-backend
 	url = https://github.com/Njoura7/Cinemate-backend
+[submodule "Cinemate-frontend"]
+	path = Cinemate-frontend
+	url = https://github.com/Njoura7/Cinemate-frontend
